@@ -47,7 +47,7 @@ With npm:
 - Run `npm test`
 
 ## Screenshot of passing tests from my attempt
-<img src="Passing tests image.PNG" width=200>
+<img src="Passing tests image.PNG" width=400>
 
 ## How to prepare for the pairing exercise
 
