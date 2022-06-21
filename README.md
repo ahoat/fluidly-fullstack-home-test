@@ -46,6 +46,9 @@ With npm:
 - Run `npm install`
 - Run `npm test`
 
+## Screenshot of passing tests from my attempt
+<img src="Passing tests image.PNG" width=200>
+
 ## How to prepare for the pairing exercise
 
 - The pairing exercise will be conducted remotely via [Google Meet](https://meet.google.com/). If you haven't used this before, we recommend getting comfortable with it in advance. In order to share your screen, you may have to update your browser settings and restart the browser. Doing this in advance will save us time and hassle during the pairing session.
